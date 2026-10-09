@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+mlruns/
+models/*.joblib
+data/*.csv
+reports/*.png
+.DS_Store
